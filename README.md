@@ -14,7 +14,7 @@ Instalação
 Para utilizar este projeto, é necessário ter o Python3 instalado, além das bibliotecas Pandas, Scikit-learn, Matplotlib e Seaborn. 
 
 ```bash
-pip install pandas scikit-learn matplotlib seaborn
+pip install pandas scikit-learn matplotlib seaborn holidays
 ```
 
 ## Uso
