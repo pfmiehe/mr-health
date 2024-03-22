@@ -19,7 +19,7 @@ pip install pandas scikit-learn matplotlib seaborn holidays
 
 ## Uso
 1. Os arquivos *itens-analysis.ipybn* e *pedido-analysis* foram utilizados para explorar e modelar as tabelas;
-2. O arquivo *dados-combinados-graficos.ipybn* foi utilizado para juntar as 3 tabelas e posteriormente para analisar os dados. Importante executar este arquivo para que o dataset *dados_combinados.csv* seja gerado com a junção de todas as 3 tabelas utilizadas para exploração dos dados;
-3. O modelo que faz a predição do modelo pode ser executado no arquivo *prever_demanda.py* e no arquivo em notebook *regressao_linear.ipybn*;
+2. O arquivo *dados-combinados-graficos.ipybn* foi utilizado para juntar as 3 tabelas e posteriormente para analisar os dados. Importante executar este arquivo para que o dataset *dados_combinados.csv* seja gerado com a junção de todas as 3 tabelas;
+3. O modelo que faz a predição pode ser executado no arquivo *prever_demanda.py* e no arquivo em notebook *regressao_linear.ipybn*;
 
 
